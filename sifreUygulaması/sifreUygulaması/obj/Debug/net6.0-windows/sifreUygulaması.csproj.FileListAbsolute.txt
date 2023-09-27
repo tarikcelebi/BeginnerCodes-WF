@@ -1,0 +1,16 @@
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\bin\Debug\net6.0-windows\sifreUygulaması.exe
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\bin\Debug\net6.0-windows\sifreUygulaması.deps.json
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\bin\Debug\net6.0-windows\sifreUygulaması.runtimeconfig.json
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\bin\Debug\net6.0-windows\sifreUygulaması.dll
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\bin\Debug\net6.0-windows\sifreUygulaması.pdb
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\obj\Debug\net6.0-windows\sifreUygulaması.Form1.resources
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\obj\Debug\net6.0-windows\sifreUygulaması.csproj.GenerateResource.cache
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\obj\Debug\net6.0-windows\sifreUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\obj\Debug\net6.0-windows\sifreUygulaması.AssemblyInfoInputs.cache
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\obj\Debug\net6.0-windows\sifreUygulaması.AssemblyInfo.cs
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\obj\Debug\net6.0-windows\sifreUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\obj\Debug\net6.0-windows\sifreUygulaması.dll
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\obj\Debug\net6.0-windows\refint\sifreUygulaması.dll
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\obj\Debug\net6.0-windows\sifreUygulaması.pdb
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\obj\Debug\net6.0-windows\sifreUygulaması.genruntimeconfig.cache
+C:\Users\trk_2\OneDrive\Masaüstü\visual Studio\sifreUygulaması\sifreUygulaması\obj\Debug\net6.0-windows\ref\sifreUygulaması.dll
